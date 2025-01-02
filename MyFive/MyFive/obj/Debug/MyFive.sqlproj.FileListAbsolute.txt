@@ -1,0 +1,10 @@
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\bin\Debug\MyFive.dacpac
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\bin\Debug\MyFive.dll
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\bin\Debug\MyFive.pdb
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\MyFive.sqlproj.AssemblyReference.cache
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\Model.xml
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\refactor.xml
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\postdeploy.sql
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\predeploy.sql
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\MyFive.dll
+D:\Yoon\Project\MyWebAPI\MyFive\MyFive\obj\Debug\MyFive.pdb

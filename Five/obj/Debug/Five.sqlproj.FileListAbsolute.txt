@@ -1,0 +1,6 @@
+D:\Yoon\Project\MyWebAPI\Five\bin\Debug\Five.dacpac
+D:\Yoon\Project\MyWebAPI\Five\bin\Debug\Five.dll
+D:\Yoon\Project\MyWebAPI\Five\bin\Debug\Five.pdb
+D:\Yoon\Project\MyWebAPI\Five\obj\Debug\Five.sqlproj.AssemblyReference.cache
+D:\Yoon\Project\MyWebAPI\Five\obj\Debug\Five.dll
+D:\Yoon\Project\MyWebAPI\Five\obj\Debug\Five.pdb

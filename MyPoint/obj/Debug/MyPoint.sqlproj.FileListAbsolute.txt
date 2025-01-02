@@ -1,0 +1,10 @@
+D:\Yoon\Project\MyWebAPI\MyPoint\bin\Debug\MyPoint.dacpac
+D:\Yoon\Project\MyWebAPI\MyPoint\bin\Debug\MyPoint.dll
+D:\Yoon\Project\MyWebAPI\MyPoint\bin\Debug\MyPoint.pdb
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\MyPoint.sqlproj.AssemblyReference.cache
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\Model.xml
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\refactor.xml
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\postdeploy.sql
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\predeploy.sql
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\MyPoint.dll
+D:\Yoon\Project\MyWebAPI\MyPoint\obj\Debug\MyPoint.pdb

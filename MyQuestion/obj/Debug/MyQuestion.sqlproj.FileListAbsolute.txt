@@ -1,0 +1,6 @@
+D:\Yoon\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.dacpac
+D:\Yoon\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.dll
+D:\Yoon\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.pdb
+D:\Yoon\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.sqlproj.AssemblyReference.cache
+D:\Yoon\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.dll
+D:\Yoon\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.pdb

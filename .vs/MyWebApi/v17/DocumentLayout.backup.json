@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yoon\\Project\\MyWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E87402-7749-420B-A96D-3B64958F06E8}|MyExam\\MyExam.csproj|d:\\yoon\\project\\mywebapi\\myexam\\component\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E87402-7749-420B-A96D-3B64958F06E8}|MyExam\\MyExam.csproj|solutionrelative:myexam\\component\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E87402-7749-420B-A96D-3B64958F06E8}|MyExam\\MyExam.csproj|d:\\yoon\\project\\mywebapi\\myexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67E87402-7749-420B-A96D-3B64958F06E8}|MyExam\\MyExam.csproj|solutionrelative:myexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Yoon\\Project\\MyWebAPI\\MyExam\\appsettings.json",
+              "RelativeDocumentMoniker": "MyExam\\appsettings.json",
+              "ToolTip": "D:\\Yoon\\Project\\MyWebAPI\\MyExam\\appsettings.json",
+              "RelativeToolTip": "MyExam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T06:49:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\Yoon\\Project\\MyWebAPI\\MyExam\\Component\\Exam.cs",
+              "RelativeDocumentMoniker": "MyExam\\Component\\Exam.cs",
+              "ToolTip": "D:\\Yoon\\Project\\MyWebAPI\\MyExam\\Component\\Exam.cs",
+              "RelativeToolTip": "MyExam\\Component\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:49:31.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
